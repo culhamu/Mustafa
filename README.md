@@ -6,8 +6,9 @@
 
 ## Connect with me
 
- [LinkedIn](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)(https://www.linkedin.com/in/mustafa-culha/)
- [![Gmail](https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Flapiazzettadimaumix%2Fgmail%2Flogo+gmail.jpg)](mailto:johndoe@gmail.com)
+ [<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="32" height="32">](https://www.linkedin.com/in/mustafa-culha/)
+ [<img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-1280x720.png" width="32" height="32">](mailto:mustafa.qatester@gmail.com)
+
 
 
 ## My Skills
