@@ -2,7 +2,7 @@
 
 ## Automation Engineer
 
-💭 Ask me about ** Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins **
+💭 Ask me about **Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins**
 
 ## My Skills
 
@@ -25,4 +25,4 @@
 - Football
 
 
-*** If you would like to work with me, please feel free to contact me. Thanks! ***
+***If you would like to work with me, please feel free to contact me. Thanks!***
