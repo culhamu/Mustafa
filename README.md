@@ -6,9 +6,8 @@
 
 ## Connect with me
 
- [LinkedIn]()(https://www.linkedin.com/in/mustafa-culha/)
- [Gmail](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)(https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png)(mailto:mustafa.qatester@gmail.com)
-
+ [LinkedIn](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)(https://www.linkedin.com/in/mustafa-culha/)
+ [![Gmail](https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png)](mailto:johndoe@gmail.com)
 
 
 ## My Skills
