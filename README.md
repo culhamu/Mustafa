@@ -4,6 +4,14 @@
 
 💭 Ask me about **Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins**
 
+##Connect with me
+
+ [LinkedIn](https://www.linkedin.com/in/mustafa-culha/)
+ ## Bağlantılar
+ [Gmail](mailto:mustafa.qatester@gmail.com)
+
+
+
 ## My Skills
 
 - Manual and automatic testing
@@ -26,3 +34,5 @@
 
 
 ***If you would like to work with me, please feel free to contact me. Thanks!***
+
+
