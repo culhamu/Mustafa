@@ -3,6 +3,7 @@
 ## Automation Engineer
 
 💭 Ask me about **Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins**
+🔭 I am currently working in every field, trying to improve myself
 
 ## Connect with me
 
@@ -34,4 +35,6 @@
 
 ***If you would like to work with me, please feel free to contact me. Thanks!***
 
+```sh
+   git clone https://github.com/culhamu/repo-name.git
 
