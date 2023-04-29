@@ -7,7 +7,7 @@
 ## Connect with me
 
  [LinkedIn](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)(https://www.linkedin.com/in/mustafa-culha/)
- [![Gmail](https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png)](mailto:johndoe@gmail.com)
+ [![Gmail](https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Flapiazzettadimaumix%2Fgmail%2Flogo+gmail.jpg)](mailto:johndoe@gmail.com)
 
 
 ## My Skills
