@@ -1,8 +1,8 @@
 # Hi 🖐️, I'm Mustafa
 
-Automation Engineer
+## Automation Engineer
 
-💭 Ask me about Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins
+💭 Ask me about ** Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins **
 
 ## My Skills
 
@@ -24,8 +24,5 @@ Automation Engineer
 - Calligraphy
 - Football
 
-## Languages and Tools:
 
-https://www.java.com/ selenium karate cucumber cypress mysql oracle postman appium html5 css3 javascript jenkins git
-
-If you would like to work with me, please feel free to contact me. Thanks!
+*** If you would like to work with me, please feel free to contact me. Thanks! ***
